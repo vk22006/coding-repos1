@@ -1,3 +1,7 @@
+# Create class called student and create variables name and register number using constructor.
+# Add a function display to print the name and register number of the students
+# TASK: Pass the name and reg no through the object
+
 class student:
     def __init__(self,name,regno):
         self.name = name
