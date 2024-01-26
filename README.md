@@ -8,7 +8,6 @@ Welcome to the Python Programs and Notes repository! This repository contains a 
 - [Programs](#programs)
 - [Notes](#notes)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -20,7 +19,7 @@ In the `programs` directory, you'll find a collection of simple Python programs 
 
 - 📘 Classes and objects
 - 🌼 Decorators
-- 👨🏻‍🤝‍👨🏻 Polymorphism 
+- 👨🏻‍🤝‍👨🏻 Polymorphism
 - 👶 Inheritance
 - 💊 Encapsulation
 - 📂 File handling
@@ -30,7 +29,7 @@ In the `programs` directory, you'll find a collection of simple Python programs 
 - And more!
 
 Feel free to explore the programs, run them, and modify them to see how different changes affect the output.
-We have just started and we will add more files in future! 
+We have just started and we will add more files in future!
 
 ## Notes
 
